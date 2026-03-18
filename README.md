@@ -80,14 +80,6 @@ Or press `v` in the arcade menu to see the security report. Or just read the sou
 
 ---
 
-## Trigger Words
-
-Claude picks up on any of these and launches the arcade:
-
-`/ccgames` · `play a game` · `I'm bored` · `entertain me` · `game time` · `let's play` · `tetris` · `snake` · `wordle` · `hangman` · `arcade` · `take a break` · `kill time` · `play something` · `games` · `mini game` · `break time` · `fun` · `distraction` · `procrastinate`
-
----
-
 ## Uninstall
 
 ```bash

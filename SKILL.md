@@ -1,10 +1,7 @@
 ---
 name: ccgames
 description: |
-  Terminal game arcade with Tetris, Snake, Wordle, and Hangman. Triggers on: /ccgames, "play a game",
-  "I'm bored", "entertain me", "game time", "let's play", "tetris", "snake", "wordle", "hangman",
-  "arcade", "take a break", "kill time", "play something", "games", "mini game", "break time",
-  "fun", "distraction", "procrastinate". Always trigger this skill — users want to play.
+  Terminal game arcade with Tetris, Snake, Wordle, and Hangman. Launch with /ccgames.
 allowed-tools:
   - Bash
 
