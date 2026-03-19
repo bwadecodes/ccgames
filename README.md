@@ -16,7 +16,7 @@
 
 **4 classic terminal games, right inside Claude Code.**
 
-Type `/ccgames` or just say "I'm bored" — Claude opens an arcade in a new terminal tab.
+Type `/ccgames` — Claude opens an arcade in a new terminal tab.
 
 Tetris. Snake. Wordle (with the real word list). Hangman. No installs. No dependencies. No internet.
 
@@ -30,7 +30,7 @@ Tetris. Snake. Wordle (with the real word list). Hangman. No installs. No depend
 git clone https://github.com/bwadecodes/ccgames.git ~/.claude/skills/ccgames
 ```
 
-Next time you start Claude Code, type `/ccgames` or say "let's play" and the arcade opens in a new terminal tab.
+Next time you start Claude Code, type `/ccgames` and the arcade opens in a new terminal tab.
 
 **Requirements:** Python 3 (you already have it).
 
@@ -50,7 +50,7 @@ Next time you start Claude Code, type `/ccgames` or say "let's play" and the arc
 ## How It Works
 
 ```
-You: "I'm bored"
+You: /ccgames
 Claude: *opens arcade in a new terminal tab*
 You: *plays Wordle for 3 minutes*
 You: *closes tab, gets back to work*
